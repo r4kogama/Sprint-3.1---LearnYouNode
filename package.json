@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bl": "^6.0.13",
+    "concat-stream": "^2.0.0",
+    "through2-map": "^4.0.0"
+  }
+}
